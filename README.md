@@ -18,3 +18,4 @@ Employees Data: The primary dataset used for this analysis is the "Attendance Sh
 
 An automated dashboard providing quick & latest Employees insights in order to supprt data driven decision making.
 
+![WhatsApp Image 2024-07-21 at 6 41 45 PM (1)](https://github.com/user-attachments/assets/68e71771-711a-4204-aeec-f79e07306511)
